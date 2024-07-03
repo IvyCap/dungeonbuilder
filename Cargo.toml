@@ -1,0 +1,10 @@
+[package]
+name = "dungeonbuilder"
+description = ""
+edition = "2021"
+author = ["Ivycap"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/ivycap/dungeonbuilder"
+
+[dependencies]
+bevy = "0.13.2"
